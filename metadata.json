@@ -1,0 +1,8 @@
+{
+  "name": "SIM Manager Toolkit",
+  "description": "A lightweight utility app to manage your SIM card contacts, settings, and network information on older Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
